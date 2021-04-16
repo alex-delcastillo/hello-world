@@ -7,3 +7,5 @@ Adding a new line via 'readme-edits-3' branch ...following by a carriage return.
 Adding a new line via 'readme-edits-4' branch ...following by a carriage return.
   
 Adding a new line via 'readme-edits-5' branch ...following by a carriage return.
+
+Adding a new line via 'readme-edits-6' branch
